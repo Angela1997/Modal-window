@@ -1,0 +1,66 @@
+.հ {
+  margin-left: 90px;
+  font-size: 18px;
+}
+
+.input {
+  width: 240px;
+  margin-top: 7px;
+}
+
+.input1 {
+  width: 55px;
+}
+
+.input2 {
+  margin-top: 7px;
+}
+
+.div {
+  margin-top: -13px;
+}
+
+.div1 {
+  margin-left: 10px;
+  margin-top: 7px;
+}
+
+.div2 {
+  margin-left: 10px;
+  margin-top: -17px;
+}
+
+.modal1 {
+  height: 40%;
+}
+
+.n1 {
+  resize: none;
+  width: 100%;
+  height: 80px;
+  margin-top: 7px;
+  border-radius: 4px;
+}
+
+.n2 {
+  width: 250px;
+  margin-top: 7px;
+  height: 80px;
+  border-radius: 4px;
+}
+
+.a1 {
+  margin-left: 16px;
+}
+
+.a2 {
+  margin-left: 24px;
+}
+
+body {
+  font-family: Tahoma;
+}
+
+.d1 {
+  margin-top: 10px;
+}
